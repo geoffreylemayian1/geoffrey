@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.lema {
+    position: relative;
+    width: 100%;
+    background-color: black;
+    position: relative;
+}
+nav {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    padding: 10px; 10px;
+    align-items: center;
+}
+h1{
+    box-sizing: border-box;
+    color: red;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+}
+span{
+    color: red;
+}
